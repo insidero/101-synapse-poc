@@ -295,7 +295,7 @@
 			},
 			"KeyVaultName": {
 				"type": "string",
-				"defaultValue": "keyvaukt-kvfivdittmii5ygzgmpoc"
+				"defaultValue": "kvfivdittmii5ygzgmpoc"
 			},
 			"datalakeAccountName": {
 				"type": "string",
